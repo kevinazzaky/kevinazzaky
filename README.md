@@ -1,16 +1,12 @@
-<h1 align="center">Hi, I'm Kevin Azzaky 👋</h1>
+# Hi, I'm Kevin Azzaky 👋
 
-<h3 align="center">
-Information Technology Student | Web Development Enthusiast | Exploring IoT
-</h3>
+I’m an Information Technology student passionate about building responsive, user-friendly, and modern web applications.
 
-<p align="center">
-  I build web-based applications with a focus on clean UI, responsive design, and structured development.
-</p>
+With skills in React, Next.js, Tailwind CSS, and UI/UX implementation, I enjoy turning ideas into clean and functional digital products. Besides web development, I also explore IoT projects using ESP32 and cloud-based monitoring.
 
-<p align="center">
+<p>
   <a href="https://portfolio-sigma-opal-3qttonqt12.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/kevinazzaky">
     <img src="https://img.shields.io/badge/GitHub-kevinazzaky-181717?style=for-the-badge&logo=github" />
@@ -19,37 +15,10 @@ Information Technology Student | Web Development Enthusiast | Exploring IoT
 
 ---
 
-## 👨‍💻 About Me
-
-I am an Information Technology student who is currently focusing on web development, especially in building responsive, structured, and user-friendly web applications.
-
-My main interest is web-based development, including frontend, backend, database, and software engineering fundamentals. Besides web development, I also explore IoT projects as part of my learning journey.
-
-- 🌱 Currently learning: **Next.js, TypeScript, Backend Development, and IoT**
-- 💻 Main focus: **Web Development**
-- 🎯 Interested in: **UI/UX, Database, Information Systems, and Software Engineering**
-- 🚀 Goal: Building useful, clean, and scalable digital products
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
+## 🛠️ Tech Stack:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mysql,postgres" />
-</p>
-
-### Tools & Others
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,arduino" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,django,mysql,postgres,git,github,vscode,vercel,arduino,figma" />
 </p>
 
 ---
@@ -88,22 +57,23 @@ A web-based resort and villa management system designed to support reservation a
 
 ---
 
-## 📌 What I'm Working On
+## 📌 Currently Learning
 
-- Improving my personal portfolio website
-- Building web-based projects with modern frontend tools
-- Learning backend and database implementation
-- Exploring IoT-based systems using ESP32
+- Modern web development with React and Next.js
+- TypeScript for better and safer development
+- Backend development and database implementation
+- IoT systems using ESP32
+- Clean UI implementation and responsive design
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=kevinazzaky&show_icons=true&theme=tokyonight" alt="Kevin's GitHub Stats" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinazzaky&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
