@@ -11,11 +11,12 @@
 </div>
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=kevinazzaky&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
-
+  <img src="https://komarev.com/ghpvc/?username=kevinazzaky&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <a href="https://portfolio-sigma-opal-3qttonqt12.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
-
 ---
 
 ## 👨‍💻 About Me
