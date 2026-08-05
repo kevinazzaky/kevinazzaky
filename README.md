@@ -6,17 +6,22 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kevin+Azzaky+%F0%9F%91%8B;Information+Technology+Student;Web+Development+Enthusiast;Frontend+%7C+Backend+%7C+Database;Exploring+IoT+with+ESP32)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=700\&lines=Hi%2C+I'm+Kevin+Azzaky+%F0%9F%91%8B;Information+Technology+Student;Web+Development+Enthusiast;Frontend+%7C+Backend+%7C+Database;Building+Responsive+Web+Applications)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevinazzaky&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
-  &nbsp;
-  <a href="https://portfolio-sigma-opal-3qttonqt12.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+
+<img src="https://komarev.com/ghpvc/?username=kevinazzaky&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
+
+ 
+
+<a href="https://portfolio-sigma-opal-3qttonqt12.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
 </div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -25,92 +30,106 @@
 
 I am an **Information Technology student** who is currently focusing on **web development**, especially in building responsive, structured, and user-friendly web applications.
 
-My main interest is in **web-based development**, including frontend, backend, database, UI implementation, and software engineering fundamentals. Besides web development, I also explore **IoT projects** using ESP32 and cloud-based monitoring as part of my learning journey.
+My main interests include **frontend development, backend development, database implementation, UI development, and software engineering fundamentals**.
 
-- 🌱 Currently learning: **React, Next.js, TypeScript, Backend Development, and IoT**
-- 💻 Main focus: **Web Development**
-- 🎯 Interested in: **UI/UX, Database, Information Systems, and Software Engineering**
-- ⚙️ Exploring: **ESP32, Wokwi, ThingSpeak, and IoT-based systems**
-- 🚀 Goal: **Building useful, clean, and scalable digital products**
+I enjoy learning modern web technologies and applying them through personal, academic, educational, and business-oriented projects.
+
+* 🌱 Currently learning: **React, Next.js, TypeScript, Backend Development, and Database Fundamentals**
+* 💻 Main focus: **Web Development**
+* 🎨 Interested in: **Frontend Development, UI Implementation, and Responsive Design**
+* ⚙️ Exploring: **Backend Development, Database Design, and Web Application Architecture**
+* 🚀 Goal: **Building useful, clean, maintainable, and scalable digital products**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://portfolio-sigma-opal-3qttonqt12.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/kevinazzaky" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<a href="https://portfolio-sigma-opal-3qttonqt12.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="https://github.com/kevinazzaky" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
 </p>
 
 ---
 
-## 🛠️ My Favorite Tools and Technologies
+## 🛠️ Tools and Technologies
 
-### Frontend
+### Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="Frontend Technologies" />
 </p>
 
-### Backend & Database
+### Backend and Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,prisma,mysql,postgres" alt="Backend and Database Technologies" />
 </p>
 
-### Tools & Others
+### Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,arduino,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma" alt="Development Tools" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Landing Page Projects
 
-### 🌐 Kaizen Utama Teknik Website
+### 🔧 Kaizen Utama Teknik Website
 
-A professional company profile website for **Kaizen Utama Teknik**.  
-This project focuses on presenting company information, services, client experience, and contact details through a clean and responsive interface.
+A professional company profile and landing page developed for **Kaizen Utama Teknik**, a company providing maintenance, preventive maintenance, spare parts, and commercial kitchen equipment services.
 
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS  
-**Focus:** Company Profile, Responsive Design, UI Implementation  
-**Repository:** [kaizen](https://github.com/kevinazzaky/kaizen)
+The website presents company information, services, client experience, work documentation, and contact details through a clean, professional, and responsive interface.
 
----
-
-### 🗑️ Smart Waste Bin IoT
-
-An IoT-based smart waste bin simulation using **ESP32**.  
-This project explores sensor-based automation and cloud monitoring to support a smarter waste management concept.
-
-**Tech Stack:** ESP32, C++, Wokwi, ThingSpeak  
-**Focus:** IoT Simulation, Sensor System, Cloud Monitoring  
-**Repository:** [smart-waste-bin-iot](https://github.com/kevinazzaky/smart-waste-bin-iot)
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS
+**Focus:** Company Profile, Responsive Design, UI Implementation
+**Repository:** [kevinazzaky/kaizen](https://github.com/kevinazzaky/kaizen)
+**Live Demo:** [Kaizen Utama Teknik](https://kaizen-psi-taupe.vercel.app/)
 
 ---
 
-### 🏨 Serene Bali Villas Management System
+### 👨‍💻 Personal Portfolio Website
 
-A web-based resort and villa management system designed to support reservation and operational management.
+A personal portfolio landing page developed to showcase my profile, technical skills, learning interests, and software development projects.
 
-**Tech Stack:** Laravel, React, PostgreSQL, AWS  
-**Focus:** Web Application, Database, Management System  
-**Repository:** [serene-bali-villas-cloud-resort-management-system](https://github.com/kevinazzaky/serene-bali-villas-cloud-resort-management-system)
+The website provides bilingual content, responsive navigation, project filtering, smooth animations, downloadable CV functionality, and direct contact information.
+
+**Tech Stack:** React, JavaScript, Vite, Tailwind CSS
+**Focus:** Personal Branding, Responsive Design, Interactive UI
+**Repository:** [kevinazzaky/portfolio](https://github.com/kevinazzaky/portfolio)
+**Live Demo:** [Kevin Azzaky Portfolio](https://portfolio-sigma-opal-3qttonqt12.vercel.app/)
+
+---
+
+### 🚦 Jalan Milik Bersama
+
+An educational landing page developed to increase public awareness about driving ethics and the importance of public transportation.
+
+The website discusses common road violations such as running red lights, riding on sidewalks, reckless driving, and ignoring other road users.
+
+It also encourages people to develop safer, more responsible, and sustainable transportation habits.
+
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS
+**Focus:** Educational Website, Responsive Design, Interactive UI
+**Repository:** [kevinazzaky/jalan-milik-bersama](https://github.com/kevinazzaky/jalan-milik-bersama)
 
 ---
 
 ## 📌 Currently Working On
 
-- Improving my personal portfolio website
-- Building web-based projects with modern frontend tools
-- Learning backend and database implementation
-- Exploring IoT-based systems using ESP32
-- Improving clean UI implementation and responsive design
+* Improving my personal portfolio website
+* Building responsive landing pages with React and Next.js
+* Learning backend development and database implementation
+* Improving clean UI implementation and responsive design
+* Learning clean code and better project structure
+* Developing web projects for real-world and educational needs
 
 ---
 
@@ -118,31 +137,19 @@ A web-based resort and villa management system designed to support reservation a
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kevinazzaky&show_icons=true&theme=tokyonight&hide_border=true" alt="Kevin's GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=kevinazzaky&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Kevin Azzaky GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinazzaky&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<br/>
 
-</div>
+<img src="https://streak-stats.demolab.com/?user=kevinazzaky&theme=tokyonight&hide_border=true" alt="Kevin Azzaky GitHub Streak" />
 
----
+<br/>
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kevinazzaky&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kevinazzaky&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Kevin Azzaky Top Languages" />
 
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=kevinazzaky&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ## 🐍 Contribution Snake
 
