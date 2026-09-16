@@ -34,11 +34,15 @@
 
 ## 📊 GitHub Stats
 
-![Kevin Azzaky GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinazzaky&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
 
-![Kevin Azzaky GitHub Streak](https://streak-stats.demolab.com/?user=kevinazzaky&theme=tokyonight&hide_border=false)
+![Kevin Azzaky GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kevinazzaky&hide_border=false&include_all_commits=true&count_private=true&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&border_color=38bdf8)
 
-![Kevin Azzaky Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinazzaky&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Kevin Azzaky GitHub Streak](https://streak-stats.demolab.com/?user=kevinazzaky&hide_border=false&background=0F172A&border=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF)
+
+![Kevin Azzaky Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kevinazzaky&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&border_color=38bdf8)
+
+</div>
 
 ---
 
