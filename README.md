@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=200&section=header&text=Kevin%20Azzaky&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
@@ -48,4 +49,8 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/kevinazzaky/kevinazzaky/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kevinazzaky/kevinazzaky/output/github-contribution-grid-snake-dark.svg?v=halloween2026" alt="Kevin Azzaky Halloween Contribution Snake" width="100%" />
+
+</div>
