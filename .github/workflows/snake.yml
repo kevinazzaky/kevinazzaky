@@ -2,9 +2,17 @@
 name: Generate Snake Animation
 
 on:
+  # Update otomatis setiap 12 jam
   schedule:
     - cron: "0 */12 * * *"
+
+  # Bisa dijalankan manual dari GitHub Actions
   workflow_dispatch:
+
+  # Update otomatis setiap push ke main
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
