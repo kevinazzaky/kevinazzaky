@@ -1,3 +1,4 @@
+
 name: Generate Snake Animation
 
 on:
@@ -13,13 +14,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate GitHub contribution snake
+      - name: Generate Halloween Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: kevinazzaky
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github&color_snake=#e3d04f&color_dots=#ebedf0,#fac690,#c46213,#984b10,#e3d04f
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#e3d04f&color_dots=#151b23,#fac690,#c46213,#984b10,#e3d04f
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
